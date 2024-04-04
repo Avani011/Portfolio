@@ -12,7 +12,7 @@ export const Bio = {
       "https://drive.google.com/file/d/116w7oTW_QGmwjcEg4sP0aS7UcxWQRzjt/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/avani-agarwal-49a927226//",
     twitter: "https://twitter.com/AvaniAgarwal110",
-    insta: "https://www.instagram.com/avani011/",
+    mail: "mailto:avaniagarwal110@gmail.com",
   };
   
   export const skills = [
